@@ -14,7 +14,11 @@ int main() {
     } else {
         printf("a is less than or equal to 10\n");
     }
+    printf("git branch update-venue\n");
+    printf("git checkout update-venue\n");
 }
-//test version 1.01 20260612
+
+
+//test version 1.02 20260612
 
 
