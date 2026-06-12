@@ -14,7 +14,14 @@ int main() {
     } else {
         printf("a is less than or equal to 10\n");
     }
+    printf("git branch update-venue\n");
+    printf("git checkout update-venue\n");
+    printf("git push --set-upstream origin update-venue\n");
+    printf("git diff\n");
 }
-//test version 1.01 20260612
+
+
+//20260612_15:28_code
+//1533に返信 20260612_15:34
 
 
