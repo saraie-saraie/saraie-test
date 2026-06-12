@@ -16,6 +16,7 @@ int main() {
     }
     printf("git branch update-venue\n");
     printf("git checkout update-venue\n");
+    printf("git push --set-upstream origin update-venue\n");
 }
 
 
