@@ -1,4 +1,8 @@
 sample.txt
 チートシート/
 Hello-World/
+<<<<<<< HEAD
+*.pptx
+=======
 git_flow.pptx .pptx
+>>>>>>> 0fc98fd05251a304ac52b5f7e1575eecafe75514
