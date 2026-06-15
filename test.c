@@ -18,6 +18,14 @@ int main() {
     printf("git checkout update-venue\n");
     printf("git push --set-upstream origin update-venue\n");
     printf("git diff\n");
+    while(1){
+        if(a>20)break;
+            FILE *fp;  
+            fp=fopen("testlog.txt","a");
+            fprintf(fp,"a=%d\n",a);
+            fclose(fp);
+            a++;
+    }
 }
 
 
