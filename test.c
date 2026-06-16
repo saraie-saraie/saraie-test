@@ -1,4 +1,9 @@
 #include <stdio.h>
+
+#ifdef _WIN32
+#include <windows.h>
+#endif
+
 int main() {
     
     printf("Hello, World!\n");
@@ -26,6 +31,7 @@ int main() {
             fclose(fp);
             a++;
     }
+
 }
 
 
