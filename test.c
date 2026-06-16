@@ -12,8 +12,7 @@ int main() {
     scanf("%d", &a);
     int b = a * 2;
     printf("The value of b is: %d\n", b);
-    return 0;
-
+    
     if(a > 10) {
         printf("a is greater than 10\n");
     } else {
@@ -32,9 +31,8 @@ int main() {
             a++;
     }
 
+    return 0;
+
 }
-
-
-//20260616テスト修正
 
 
