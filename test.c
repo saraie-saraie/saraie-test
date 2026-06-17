@@ -4,6 +4,9 @@
 #include <windows.h>
 #endif
 
+#include <ws2tcpip.h>
+
+
 int main() {
     
     printf("Hello, World!\n");
